@@ -1,2 +1,2 @@
 # Codeforces
-<h1>Codeforces problemset solutions</h1>
+<h2>Codeforces problemset solutions</h2>
